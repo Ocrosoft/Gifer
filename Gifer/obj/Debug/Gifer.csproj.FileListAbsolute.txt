@@ -1,0 +1,20 @@
+C:\Users\qazws\AppData\Local\Temporary Projects\Gifer\bin\Debug\Gifer.exe.config
+C:\Users\qazws\AppData\Local\Temporary Projects\Gifer\bin\Debug\Gifer.exe
+C:\Users\qazws\AppData\Local\Temporary Projects\Gifer\bin\Debug\Gifer.pdb
+C:\Users\qazws\AppData\Local\Temporary Projects\Gifer\obj\Debug\Gifer.csprojResolveAssemblyReference.cache
+C:\Users\qazws\AppData\Local\Temporary Projects\Gifer\obj\Debug\Gifer.Form1.resources
+C:\Users\qazws\AppData\Local\Temporary Projects\Gifer\obj\Debug\Gifer.Properties.Resources.resources
+C:\Users\qazws\AppData\Local\Temporary Projects\Gifer\obj\Debug\Gifer.csproj.GenerateResource.Cache
+C:\Users\qazws\AppData\Local\Temporary Projects\Gifer\obj\Debug\Gifer.exe
+C:\Users\qazws\AppData\Local\Temporary Projects\Gifer\obj\Debug\Gifer.pdb
+C:\Users\qazws\AppData\Local\Temporary Projects\Gifer\bin\Debug\Gif.Components.dll
+C:\Users\qazws\AppData\Local\Temporary Projects\Gifer\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\qazws\Documents\Visual Studio 2017\Projects\Gifer\Gifer\bin\Debug\Gifer.exe.config
+C:\Users\qazws\Documents\Visual Studio 2017\Projects\Gifer\Gifer\bin\Debug\Gifer.exe
+C:\Users\qazws\Documents\Visual Studio 2017\Projects\Gifer\Gifer\bin\Debug\Gifer.pdb
+C:\Users\qazws\Documents\Visual Studio 2017\Projects\Gifer\Gifer\obj\Debug\Gifer.csprojResolveAssemblyReference.cache
+C:\Users\qazws\Documents\Visual Studio 2017\Projects\Gifer\Gifer\obj\Debug\Gifer.Form1.resources
+C:\Users\qazws\Documents\Visual Studio 2017\Projects\Gifer\Gifer\obj\Debug\Gifer.Properties.Resources.resources
+C:\Users\qazws\Documents\Visual Studio 2017\Projects\Gifer\Gifer\obj\Debug\Gifer.csproj.GenerateResource.Cache
+C:\Users\qazws\Documents\Visual Studio 2017\Projects\Gifer\Gifer\obj\Debug\Gifer.exe
+C:\Users\qazws\Documents\Visual Studio 2017\Projects\Gifer\Gifer\obj\Debug\Gifer.pdb
